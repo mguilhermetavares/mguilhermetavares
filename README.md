@@ -8,7 +8,7 @@
 
 ### About me
 
-Hey there, my name is Guilherme Tavares, but you can call me Guido. I am Software Engenieer working at [Justa](https://github.com/justapagamentos/). I help build/improve the core payment backend services. I work mostly in Kotlin, but also work with JAVA too. I have Mobile native skills like Swift and Android. Apart from work, I try contributing to open-source projects on my free time. I am always learning something new.
+Hey there, my name is Guilherme Tavares, but you can call me Guido. I am Software Engenieer working at [Justa](https://github.com/justapagamentos/). I help build/improve the core payment backend services. I work mostly in Kotlin, but also work with Java and Go. I have Mobile native skills like Swift and Android. Apart from work, I try contributing to open-source projects on my free time. I am always learning something new.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
