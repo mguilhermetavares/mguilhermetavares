@@ -12,8 +12,4 @@ Hey there, my name is Guilherme Tavares, but you can call me Guido. I am Softwar
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=mguilhermetavares&show_icons=true&theme=dracula)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ![](https://komarev.com/ghpvc/?username=mguilhermetavares)
